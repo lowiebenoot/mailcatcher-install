@@ -25,3 +25,5 @@ cat > ~/Library/LaunchAgents/me.mailcatcher.plist << EOF
 </dict>
 </plist>
 EOF
+
+launchctl load ~/Library/LaunchAgents/me.mailcatcher.plist
