@@ -4,7 +4,7 @@ This script will install [mailcatcher](http://mailcatcher.me/) and make it avail
 
 ## Installation
 
-	curl -s http://server/path/script.sh | bash
+	curl -s https://raw.githubusercontent.com/lowiebenoot/mailcatcher-install/master/install.sh | bash
 	
 ## How to use
 
